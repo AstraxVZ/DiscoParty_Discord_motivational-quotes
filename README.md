@@ -15,3 +15,8 @@ Move the plugin you've installed into the Plugins folder
   
 **Voila, you have installed the plugin!**  
 Now go back to Discord and enable it, if it is disabled.  
+
+    <html>
+      <head>
+        <title>Test website</title>
+      <head>
