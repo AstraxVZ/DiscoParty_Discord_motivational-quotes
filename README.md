@@ -1,2 +1,3 @@
-# discord_motivational_quotes
-Discord motivational quotes plugin (requires BetterDiscord)
+# Discord Motivational Quotes plugin
+## Requirements
+- BetterDiscord
